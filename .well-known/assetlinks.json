@@ -24,4 +24,13 @@
     "sha256_cert_fingerprints":
     ["15:E4:63:85:78:B6:5B:6C:66:D7:B8:43:F7:5B:A8:FE:4C:EC:3E:25:C3:C4:6E:DB:19:83:D7:A1:42:55:F1:6B"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.amazon.rabbit.gamma",
+    "sha256_cert_fingerprints":
+    ["7C:AC:39:19:37:98:1B:61:34:BD:CE:1F:D9:83:4C:25:31:81:F5:AB:F9:1D:ED:60:78:21:0D:0F:91:AC:E3:60"]
+  }
 }]
