@@ -2,6 +2,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.amazon.rabbit.platform.demoapp",
+    "sha256_cert_fingerprints":
+    ["15:E4:63:85:78:B6:5B:6C:66:D7:B8:43:F7:5B:A8:FE:4C:EC:3E:25:C3:C4:6E:DB:19:83:D7:A1:42:55:F1:6B"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.example.applinkssample2",
     "sha256_cert_fingerprints":
     ["49:8C:C8:4A:B0:C0:58:E2:B2:1D:BF:A3:6F:2D:21:87:1A:6B:FC:12:53:43:00:BC:14:05:7A:A6:33:1F:E6:8D"]
